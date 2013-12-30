@@ -10,44 +10,44 @@ mouse left - draw a polygon point (convex, clockwise only)
 
 q - objects 1 colour down  
 w - objects 1 colour up  
-a - drawn polys 1 colour down
+a - drawn polys 1 colour down  
 s - drawn polys 1 colour up
 
-e - objects 2 colour down (in mirror mode)
-r - objects 2 colour up (in mirror mode)
-d - drawn polys 2 colour down (in mirror mode)
-f - drawn polys 2 colour up (in mirror mode)
+e - objects 2 colour down (in mirror mode)  
+r - objects 2 colour up (in mirror mode)  
+d - drawn polys 2 colour down (in mirror mode)  
+f - drawn polys 2 colour up (in mirror mode)  
 
-z - background colour down
-x - background colour up
+z - background colour down  
+x - background colour up  
 
-o - remove all polys
-p - remove last poly/cancel draw (when in the midst of drawing a polygon)
-[ - reset
+o - remove all polys  
+p - remove last poly/cancel draw (when in the midst of drawing a polygon)  
+[ - reset  
 
-j - toggle floor on/off
+j - toggle floor on/off  
 
-c - feedback down
-v - feedback up
+c - feedback down  
+v - feedback up  
 
-y - increase spawn rate
-i - decrease spawn rate
-1/2 - spawn area leftpoint left/right
-3/4 - spawn area rightpoint left/right
+y - increase spawn rate  
+i - decrease spawn rate  
+1/2 - spawn area leftpoint left/right  
+3/4 - spawn area rightpoint left/right  
 
-g - mirror mode on/off
+g - mirror mode on/off  
 
-b - change between circle/square/both objects
+b - change between circle/square/both objects  
 
-n - object width down (radius for circles)
-m - object width up (radius for circles)
-, - object height down (ignored for circles)
-. - object height up (ignored for circles)
+n - object width down (radius for circles)  
+m - object width up (radius for circles)  
+, - object height down (ignored for circles)  
+. - object height up (ignored for circles)  
 
-; - cycle object friction (0-1)
-/ - cycle object restitution (bounciness - 0-1)
+; - cycle object friction (0-1)  
+/ - cycle object restitution (bounciness - 0-1)  
 
 Have fun!
 
-Seb
+Seb  
 sebastianlenton.com
