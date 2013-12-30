@@ -4,12 +4,12 @@ This is a simple physics-based visualiser of sorts, using box2DJS. Objects fall 
 
 Please note: only convex shapes work, and shapes have to be drawn in a clockwise direction. If you don't follow this guidance then the drawn shape will still appear, but the objects will just fall through it. If you draw a "bad" one then press p to get rid of it. You can simulate concave shapes by drawing overlapping convex shapes.
 
-Keyboard Controls:
+###Keyboard Controls:
 
 mouse left - draw a polygon point (convex, clockwise only)
 
-q - objects 1 colour down
-w - objects 1 colour up
+q - objects 1 colour down  
+w - objects 1 colour up  
 a - drawn polys 1 colour down
 s - drawn polys 1 colour up
 
