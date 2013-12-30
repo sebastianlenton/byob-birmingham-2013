@@ -1,3 +1,5 @@
+##BYOB Birmingham 2013 Piece
+
 This is a piece I exhibited/performed at BYOB Birmingham 2013 (http://byobbirmingham.tumblr.com/). Please read the accompanying blog post at http://www.sebastianlenton.com/2013/12/byob-birmingham-2013-art-projectors-box2d
 
 This is a simple physics-based visualiser of sorts, using box2DJS. Objects fall from the top of the screen, and using the mouse you can draw in polygon shapes to direct their trajectory. In addition, a number of parameters can be controlled via the keyboard including colour, feedback, mirror mode, circle/square and more.
